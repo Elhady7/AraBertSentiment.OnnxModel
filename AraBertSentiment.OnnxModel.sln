@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AraBertSentiment.OnnxModel", "AraBertSentiment.OnnxModel\AraBertSentiment.OnnxModel.csproj", "{820DAF55-1A92-4393-B7B3-F2D4E723C557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820DAF55-1A92-4393-B7B3-F2D4E723C557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820DAF55-1A92-4393-B7B3-F2D4E723C557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820DAF55-1A92-4393-B7B3-F2D4E723C557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820DAF55-1A92-4393-B7B3-F2D4E723C557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE8E33A-CCEF-47C8-B572-4EFF8982E6AE}
+	EndGlobalSection
+EndGlobal
