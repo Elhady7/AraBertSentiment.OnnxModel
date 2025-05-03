@@ -2,7 +2,7 @@
 
 **Full Arabic Sentiment Analyzer powered by BERT & ONNX, usable across all .NET platforms.**
 
-![NuGet](https://www.nuget.org/packages/AraBertSentiment.OnnxModel/)
+![NuGet] https://www.nuget.org/packages/AraBertSentiment.OnnxModel/
 
 ---
 
